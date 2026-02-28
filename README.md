@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Roberto! <br/><a href="https://github.com/joshmadakor1">System-Network Administrator</a>
 
-<!--
-**roberto-a-uribe/Roberto-A-Uribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Main IT Projects and Labs:</h2>
 
-Here are some ideas to get you started:
+- <b>Active Directory Home Lab </b>
+- <b>Wireless for Production </b>
+  - Warehouse
+  - Office Space
+- <b>VOIP Migration</b>
+  - <b>Analog to VOIP</b>
+  - <b>VOIP - Office to Office</b>
+  - <b>Office Printer Migrations - IP addressing Printers/GPO </b>
+- <b>PowerShell Showcase</b>
+  - coming soon
+- <b>Lab Home Projects</b>
+  - Cyber Security MS Sentinel SIEM/Splunk/Wazuh - Proof of Concept lab
+  - VM Ware Workstation Home Lab
+  - Cyber Security - Human Risk Awareness - Gopshish simulation campaigns proof of concept lab
+  - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Popular YouTube Videos</h2>
+  - Coming Soon
+
+<h2> 🤳 Connect with me:</h2>
+
+[linkedin]: https://linkedin.com/in/roberto-uribe
