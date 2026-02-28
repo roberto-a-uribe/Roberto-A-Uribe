@@ -14,7 +14,7 @@
   - Warehouse
   - Office Space
   - Heatmaps with Ekahau
-- <b>VOIP Migration</b>
+- <b>VOIP Phone System Migration</b>
   - <b>Analog to VOIP (ATT Clearspan HVS)</b>
   - <b>VOIP - HQ Office Migration</b>
   - <b>Office Printer Migrations - IP addressing Printers/GPO </b>
