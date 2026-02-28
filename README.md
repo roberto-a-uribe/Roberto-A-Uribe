@@ -8,7 +8,7 @@
   - Office Space
 - <b>VOIP Migration</b>
   - <b>Analog to VOIP</b>
-  - <b>VOIP - Office to Office</b>
+  - <b>VOIP - HQ Office Migration</b>
   - <b>Office Printer Migrations - IP addressing Printers/GPO </b>
 - <b>PowerShell Showcase</b>
   - coming soon
