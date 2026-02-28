@@ -8,6 +8,7 @@
 - Cisco Meraki Network - Firewalls, Switches, Access Points, Security Cameras
 - Network Monitoring with Auvik Solutions
 - Nutanix virtual environment - Windows Server Management
+- Knowbe4 Cyber Security Awareness Lead
 - <b>Sophos Secureworks SIEM </b>
 - <b>Project: Wireless for Production Environments</b>
   - Warehouse
@@ -23,7 +24,7 @@
   - Active Directory Home Lab
   - Cyber Security MS Sentinel SIEM/Splunk/Wazuh - Proof of Concept lab
   - VM Ware Workstation Home Lab
-  - Cyber Security - Human Risk Awareness - Gopshish simulation campaigns proof of concept lab
+  - Cyber Security - Human Risk Awareness - Gophish simulation campaigns proof of concept lab
   - 
 
 <h2>📺 Popular YouTube Videos</h2>
