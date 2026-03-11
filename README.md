@@ -1,6 +1,6 @@
 <h1>Hi, I'm Roberto! <br/><a>System & Network Administrator | Cybersecurity Professional</a>
 
-<h2>👨‍💻 Main IT Projects, Major Assignments, WIP and Home Labs:</h2>
+<h2>👨‍💻⭐ Main IT Projects, Major Assignments, WIP and Home Labs ⭐:</h2>
 
 - <b>Microsoft Office 365 Tenant Management </b>
 - Microsoft Azure Tenant - Azure Entra ID Management
