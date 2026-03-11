@@ -2,6 +2,12 @@
 
 <h2>👨‍💻⭐ Main IT Projects, Major Assignments, WIP and Home Labs ⭐:</h2>
 
+<b>Lab Home Projects</b>
+  - Active Directory Home Lab
+  - VM Ware Workstation Home Lab
+  - Cyber Security MS Sentinel SIEM/Splunk/Wazuh - Proof of Concept lab (future)
+  - Cyber Security - Human Risk Awareness - Gophish simulation campaigns proof of concept lab (future)
+
 - <b>Microsoft Office 365 Tenant Management </b>
 - Microsoft Azure Tenant - Azure Entra ID Management
 - Server Backup with HYCU and Acronis Cyber Protect
@@ -20,11 +26,7 @@
   - <b>Office Printer Migrations - IP addressing Printers/GPO </b>
 - <b>PowerShell Showcase</b>
   - coming soon
-- <b>Lab Home Projects</b>
-  - Active Directory Home Lab
-  - Cyber Security MS Sentinel SIEM/Splunk/Wazuh - Proof of Concept lab
-  - VM Ware Workstation Home Lab
-  - Cyber Security - Human Risk Awareness - Gophish simulation campaigns proof of concept lab
+- 
   - 
 
 <h2>📺 Popular YouTube Videos</h2>
