@@ -2,8 +2,8 @@
 
 <h2>👨‍💻⭐ Main IT Projects, Major Assignments, WIP and Home Labs ⭐:</h2>
 
-<b> Lab Home Projects :</b>
-  - Active Directory Home Lab
+-<b> Lab Home Projects :</b>
+  - [Active Directory Home Lab](https://github.com/roberto-a-uribe/System-Administrator-Portfolio)
   - VM Ware Workstation Home Lab
   - Cyber Security MS Sentinel SIEM/Splunk/Wazuh - Proof of Concept lab (future)
   - Cyber Security - Human Risk Awareness - Gophish simulation campaigns proof of concept lab (future)
