@@ -9,7 +9,7 @@
   - Cyber Security - Human Risk Awareness - Gophish simulation campaigns proof of concept lab (future)
 
 
-<h4>Other Projects and Assigments :</h4>
+<h4>Other Projects,Assigments & Experience :</h4>
 
 - Microsoft Office 365 Tenant Management
 - Microsoft Azure Tenant - Azure Entra ID Management
