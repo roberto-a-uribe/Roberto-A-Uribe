@@ -4,6 +4,8 @@
 
 -<b> Lab Home Projects :</b>
   - [Active Directory Home Lab](https://github.com/roberto-a-uribe/System-Administrator-Portfolio)
+  - Azure VM Setup - Compute and Identity Management
+  - Setup of Ticketing System
   - VM Ware Workstation Home Lab
   - Cyber Security MS Sentinel SIEM/Splunk/Wazuh - Proof of Concept lab (future)
   - Cyber Security - Human Risk Awareness - Gophish simulation campaigns proof of concept lab (future)
