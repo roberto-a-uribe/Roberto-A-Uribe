@@ -18,7 +18,7 @@
 - Microsoft Office 365 Tenant Management
   - Teams Administration
   - Sharepoint Administration
-  - Defender Administration
+  - Email Exchange Administration
 - Server Backup with HYCU and Acronis Cyber Protect
 - Nutanix virtual environment
 - Knowbe4 Cyber Security Awareness Lead
