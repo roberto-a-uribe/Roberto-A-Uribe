@@ -16,6 +16,9 @@
 <h4>Other Projects,Assigments & Experience to showcase:</h4>
 
 - Microsoft Office 365 Tenant Management
+  - Teams Administration
+  - Sharepoint Administration
+  - Defender Administration
 - Server Backup with HYCU and Acronis Cyber Protect
 - Nutanix virtual environment
 - Knowbe4 Cyber Security Awareness Lead
