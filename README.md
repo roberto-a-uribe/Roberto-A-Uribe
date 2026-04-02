@@ -8,6 +8,7 @@
   - [Azure Tenant Demo Portfolio](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo)
   - [Cyber Security MS Sentinel SIEM Portolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
   - Azure Storage Acount - Blob Storage
+  - VMWare 17 Workstation Setup
   - Setup of Ticketing System (OS Ticket - Future Demo)
   - Cyber Security - Human Risk Awareness - Gophish simulation campaigns proof of concept lab (planned/future)
 
