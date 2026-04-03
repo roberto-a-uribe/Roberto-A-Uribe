@@ -4,12 +4,11 @@
 
 
 -<b> Lab Home Projects :</b>
+
   - [Active Directory Home Lab Portfolio](https://github.com/roberto-a-uribe/System-Administrator-Portfolio)
   - [Azure Tenant Demo Portfolio](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo)
   - [Cyber Security MS Sentinel SIEM Portolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
-  - VMWare 17 Workstation Setup (Future Demo)
-  - Setup of Ticketing System (OS Ticket - Future Demo)
-  - Cyber Security - Human Risk Awareness - Gophish simulation campaigns proof of concept lab (planned/future)
+  - VMWare 17 Workstation Home Lab Setup (Future Demo)
 
 
 <h4>Other Projects,Assigments & Experience to showcase:</h4>
