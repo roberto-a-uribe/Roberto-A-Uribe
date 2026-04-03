@@ -1,6 +1,6 @@
 <h2>Hi, I'm Roberto! Thank you for visiting my portfolio page. <br/><a> IT System Support Engineer | System & Network Administrator | Cybersecurity Professional and Awareness Advocate</a>
 
-<h3>👨‍💻⭐ Main IT Projects, Major Assignments, WIP and Home Labs ⭐👨‍💻:</h3>
+<h2>👨‍💻⭐ Main IT Projects, Major Assignments, WIP and Home Labs ⭐👨‍💻:</h2>
 
 
 -<b> Lab Home Projects :</b>
