@@ -36,9 +36,8 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
   - Office Printer Migrations - IP addressing Printers/GPO
   
 
-<h2>📺 Popular YouTube Videos</h2>
-  - Coming Soon
+<h3>📺 Popular YouTube Videos</h3>
+  - WIP
 
-<h2> 🤳 Connect with me:</h2>
-
-[linkedin]: https://linkedin.com/in/roberto-uribe
+<h3> 🤳 Connect with me:</h3>
+[linkedin](https://linkedin.com/in/roberto-uribe)
