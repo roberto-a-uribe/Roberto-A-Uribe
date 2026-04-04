@@ -3,15 +3,14 @@
 <h2>👨‍💻⭐ Main IT Projects, Major Assignments, WIP and Home Labs ⭐👨‍💻:</h2>
 
 
--<b> Lab Home Projects :</b>
+<h3> Lab Home Projects :</h3>
 
   - [Active Directory Home Lab Portfolio](https://github.com/roberto-a-uribe/System-Administrator-Portfolio)
   - [Azure Tenant Lab Portfolio](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo)
   - [Cyber Security MS Sentinel SIEM Portolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
-  - VMWare 17 Workstation Home Lab Setup (Future Demo)
+  - VMWare 17 Workstation Home Lab Setup (WIP)
 
-
-<h4>Other Projects,Assigments & Experience to showcase:</h4>
+<h3>Other Projects,Assingments & Experience to showcase :</h3>
 
 - Microsoft Office 365 Tenant Management
   - Teams Administration
@@ -23,7 +22,7 @@
 - Nutanix virtual environment (AOS)
 - Knowbe4 Cyber Security Awareness Lead
 - Sophos Secureworks SIEM
-- <h2>Major Projects: </h2>
+- <h3> Major Projects : </h3>
 - Wireless Upgrade for Production Environments
   - Warehouse ( 400k SQ of production / warehouse space to cover)
   - HQ Office Space
