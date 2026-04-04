@@ -6,7 +6,7 @@
 -<b> Lab Home Projects :</b>
 
   - [Active Directory Home Lab Portfolio](https://github.com/roberto-a-uribe/System-Administrator-Portfolio)
-  - [Azure Tenant Demo Portfolio](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo)
+  - [Azure Tenant Lab Portfolio](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo)
   - [Cyber Security MS Sentinel SIEM Portolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
   - VMWare 17 Workstation Home Lab Setup (Future Demo)
 
