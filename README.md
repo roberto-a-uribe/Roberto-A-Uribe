@@ -18,19 +18,21 @@
   - Sharepoint Administration
   - Exchange (Email) Administration
   - Security Administration
-- Server Backup with HYCU and Acronis Cyber Protect
-- Nutanix virtual environment
+- Server Backup Solutions with Unitrends, HYCU and Acronis Cyber Protect
+- PowerShell Automation and Scripting
+- Nutanix virtual environment (AOS)
 - Knowbe4 Cyber Security Awareness Lead
 - Sophos Secureworks SIEM
-- </b>Projects: Wireless for Production Environments</b>
-  - Warehouse
-  - Office Space
+- <h2>Major Projects: </h2>
+- Wireless Upgrade for Production Environments
+  - Warehouse ( 400k SQ of production / warehouse space to cover)
+  - HQ Office Space
   - Heatmaps with Ekahau
 - VOIP Voice Phone System Migration
   - Analog to VOIP (ATT Clearspan HVS)
   - VOIP - HQ Office Migration
   - Office Printer Migrations - IP addressing Printers/GPO
-- PowerShell Showcase
+  
 
 <h2>📺 Popular YouTube Videos</h2>
   - Coming Soon
