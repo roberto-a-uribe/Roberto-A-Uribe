@@ -24,7 +24,8 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
 - Nutanix virtual environment (AOS)
 - Knowbe4 Cyber Security Awareness Lead
 - Sophos Secureworks SIEM
-- <h3> Major Projects : </h3>
+<h3> Major Projects : </h3>
+
 - Wireless Upgrade for Production Environments
   - Warehouse ( 400k SQ of production / warehouse space to cover)
   - HQ Office Space
