@@ -40,4 +40,4 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
   - WIP
 
 <h3> 🤳 Connect with me:</h3>
-[linkedin](https://linkedin.com/in/roberto-uribe)
+[linkedin](https://linkedin.com/in/roberto-a-uribe)
