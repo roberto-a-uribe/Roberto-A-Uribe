@@ -21,6 +21,8 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
   - Exchange (Email) Administration
   - Security Administration
 - Server Backup Solutions with Unitrends, HYCU and Acronis Cyber Protect
+- ConnectWise Manage and Automate
+- Manage Engine ADManager 360 Suite
 - PowerShell Automation and Scripting
 - Nutanix virtual environment (AOS)
 - Knowbe4 Cyber Security Awareness Lead
