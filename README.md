@@ -13,7 +13,7 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
   - [Cyber Security MS Sentinel SIEM Portfolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
  
 
-<h3>Other Projects,Assingments & Experience to showcase :</h3>
+<h3> Other Projects, Assingments & Experience to showcase :</h3>
 
 - Microsoft Office 365 Tenant Management
   - Teams Administration
