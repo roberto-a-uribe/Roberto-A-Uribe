@@ -10,7 +10,7 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
   -  [VMWare 17 Workstation Home Lab Setup](https://github.com/roberto-a-uribe/VMWare-17-WSPRO-Home-Lab)
   - [Active Directory Home Lab Portfolio](https://github.com/roberto-a-uribe/System-Administrator-Portfolio)
   - [Azure Tenant Lab Portfolio](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo)
-  - [Cyber Security MS Sentinel SIEM Portolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
+  - [Cyber Security MS Sentinel SIEM Portfolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
  
 
 <h3>Other Projects,Assingments & Experience to showcase :</h3>
