@@ -1,5 +1,5 @@
 <h2>Hi, I'm Roberto! Thank you for visiting my portfolio page. <br/> <a>   
-System & Network Administrator | IT System Support Engineer | Cybersecurity Professional and Awareness Advocate</a>
+System & Network Administrator | IT System Support Engineer | AI Professional | Cybersecurity Professional and Awareness Advocate</a>
 
 
 <h2>👨‍💻⭐  Main IT Projects, Major Assignments, WIP and Home Labs  ⭐👨‍💻: </h2>
@@ -12,6 +12,9 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
   - [Azure Tenant Lab Portfolio](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo)
   - [Cyber Security MS Sentinel SIEM Portfolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
  
+<h3> 🚀 Certificates :</h3>
+
+### [Google AI Professional Certificate April 2026](https://www.credly.com/badges/e8d77381-9b5d-4760-99b1-1e2eb272c3bb/public_url)
 
 <h3> Other Projects, Assingments & Experience to showcase :</h3>
 
@@ -42,9 +45,6 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
 <h3>📺 Popular YouTube Videos</h3>
   - WIP
 
-<h3> 🚀 Certificates :</h3>
-
-### [Google AI Professional Certificate April 2026](https://www.credly.com/badges/e8d77381-9b5d-4760-99b1-1e2eb272c3bb/public_url)
 
 <h3> 🤳 Connect with me at :</h3>
 
