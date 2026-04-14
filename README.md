@@ -43,4 +43,7 @@ System & Network Administrator | IT System Support Engineer | Cybersecurity Prof
   - WIP
 
 <h3> 🤳 Connect with me:</h3>
-[linkedin](https://linkedin.com/in/roberto-a-uribe)
+
+## [Google AI Professional Certificate April 2026](https://www.credly.com/badges/e8d77381-9b5d-4760-99b1-1e2eb272c3bb/public_url)
+
+## [linkedin](https://linkedin.com/in/roberto-a-uribe)
