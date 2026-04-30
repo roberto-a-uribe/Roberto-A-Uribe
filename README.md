@@ -36,10 +36,10 @@ System & Network Administrator | IT System Support Engineer | AI Professional | 
 - Wireless Upgrade for Production Environments
   - Warehouse ( 400k SQ of production / warehouse space to cover)
   - HQ Office Space
-  - Heatmaps with Ekahau
+  - Wireless Heatmaps with Ekahau
 - VOIP Voice Phone System Migration
   - Analog to VOIP (ATT Clearspan HVS)
-  - VOIP - HQ Office Migration
+  - Voice Over IP - HQ Office Migration
   - Office Printer Migrations - IP addressing Printers/GPO
   
 
