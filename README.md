@@ -27,6 +27,7 @@ System & Network Administrator | IT System Support Engineer | AI Professional | 
   - Security Administration
 - Server Backup Solutions with Unitrends, HYCU and Acronis Cyber Protect
 - ConnectWise Manage and Automate
+- Service Developer ITSM Instance Setup
 - Manage Engine ADManager 360 Suite
 - PowerShell Automation and Scripting
 - Nutanix virtual environment (AOS)
