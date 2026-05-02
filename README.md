@@ -7,7 +7,7 @@ IT Administrator | IT System Support | AI Professional | Cybersecurity Professio
 
 <h3> Main Labs & Portfolio Projects :</h3>
 
-  - [VMWare 17 Workstation Home Lab Setup](https://github.com/roberto-a-uribe/VMWare-17-WSPRO-Home-Lab)
+  - [VMWare 17 Virtual Workstation Home Lab Setup](https://github.com/roberto-a-uribe/VMWare-17-WSPRO-Home-Lab)
   - [Active Directory Home Lab Portfolio](https://github.com/roberto-a-uribe/System-Administrator-Portfolio)
   - [Microsoft Azure Tenant Portfolio](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo)
   - [Cyber Security MS Sentinel SIEM Portfolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
