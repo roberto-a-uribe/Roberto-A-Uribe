@@ -5,7 +5,7 @@ IT Administrator | IT System Support | AI Professional | Cybersecurity Professio
 <h2>👨‍💻⭐  Main IT Projects, Major Assignments, WIP and Home Labs  ⭐👨‍💻: </h2>
 
 
-<h3> Main Lab Portfolio Projects :</h3>
+<h3> Main Labs & Portfolio Projects :</h3>
 
   - [VMWare 17 Workstation Home Lab Setup](https://github.com/roberto-a-uribe/VMWare-17-WSPRO-Home-Lab)
   - [Active Directory Home Lab Portfolio](https://github.com/roberto-a-uribe/System-Administrator-Portfolio)
