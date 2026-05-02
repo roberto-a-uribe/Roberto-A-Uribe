@@ -1,4 +1,4 @@
-<h2>Hi, I'm Roberto! Thank you for visiting my portfolio page. <br/> <a>   
+<h2> Thank you for visiting my portfolio page. <br/> <a>   
 IT Administrator | IT System Support | AI Professional | Cybersecurity Professional and Awareness Advocate</a>
 
 
