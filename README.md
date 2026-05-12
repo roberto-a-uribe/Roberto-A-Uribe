@@ -16,6 +16,7 @@ IT Administrator | IT System Support | AI Professional | Cybersecurity Professio
  
 <h3> 🚀 Certificates :</h3>
 
+### ✅[Microsoft Certified: Azure Fundamentals AZ900](https://learn.microsoft.com/api/credentials/share/en-us/RobertoUribe-1258/D59834B339169C99?sharingId=8A95CAFB6705DFCF)
 ### ✅[Google AI Professional Certificate April 2026](https://www.credly.com/badges/e8d77381-9b5d-4760-99b1-1e2eb272c3bb/public_url)
 ### ✅[Google CyberSecurity Professional Certificate April 2026](https://www.credly.com/badges/26f3e8a1-71a3-46b3-bfdd-f8ae5693b21f/public_url)
 
