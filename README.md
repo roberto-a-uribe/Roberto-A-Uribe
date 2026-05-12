@@ -1,5 +1,5 @@
 <h2> Thank you for visiting my portfolio page. <br/> <a>   
-IT Administrator | IT System Support | AI Professional | Cybersecurity Professional and Awareness Advocate</a>
+IT Administrator | IT System Support | AI Professional | Cybersecurity Professional </a>
 
 
 <h2>👨‍💻⭐  Main IT Projects, Major Assignments, WIP and Home Labs  ⭐👨‍💻: </h2>
