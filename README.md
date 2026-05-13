@@ -13,6 +13,7 @@ IT Administrator | IT System Support | AI Professional | Cybersecurity Professio
   - [Cyber Security MS Sentinel SIEM Portfolio](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo)
   - [ServiceNow Developer Instance Portfolio](https://github.com/roberto-a-uribe/ServiceNow-Instance-Portfolio)
   - [PowerShell Administrator Showcase Portfolio](https://github.com/roberto-a-uribe/PowerShell-Showcase)
+  - [Google Workspace Personal Portfolio - In Progress](https://github.com/roberto-a-uribe/Google-Workspace-Demo)
  
 <h3> 🚀 Certificates :</h3>
 
