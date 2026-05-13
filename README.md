@@ -31,6 +31,7 @@ IT Administrator | IT System Support | AI Professional | Cybersecurity Professio
 - Server Backup Solutions with Unitrends, HYCU and Acronis Cyber Protect
 - Google Workspace Administration
 - ConnectWise Manage and Automate
+- ServiceNow Management
 - Service Developer ITSM Instance Setup
 - Manage Engine ADManager 360 Suite
 - PowerShell Automation and Scripting
